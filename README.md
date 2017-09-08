@@ -1,6 +1,6 @@
-# README #
+# Clean Laravel Project #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This is a clean [Laravel](https://laravel.com/) project which uses [Quarx CMS](https://docs.quarxcms.com/)
 
 ### What is this repository for? ###
 
