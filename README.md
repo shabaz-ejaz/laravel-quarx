@@ -82,7 +82,7 @@ php artisan crudmaker:new ModelName
 {--withoutViews}
 {--migration}
 {--schema}
-{--relationships}php artisan serve
+{--relationships}
 ```
 
 You can view the full documentation for this [here](https://laracogs.com/docs/services/crud/)  
