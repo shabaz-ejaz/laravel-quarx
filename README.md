@@ -8,6 +8,12 @@ This is a clean [Laravel](https://laravel.com/) 5.4.36 project which uses [Quarx
 * Version: 5.4.36
 
 
+## Requirements
+
+- [Node](https://nodejs.org) 4.* or better
+- PHP 7.0.* or better
+
+
 ## Installation
 
 Start by installing dependencies:
@@ -38,10 +44,11 @@ Set up Quarx CMS:
 ```sh
 php artisan quarx:setup
 ```
-This will set up the CMS and will create an admin account for you with the following credentials:
+This will set up the CMS, run the migrations and will create an admin account for you with the following credentials:
 
-admin@example.org
-admin
+* admin@example.org
+* admin
+
 
 ## Running
 
