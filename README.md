@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/fukuball/Awesome-Laravel-Education/master/laravel-logo-white.png" width="350"/>
-</p>
-
+![alt text](http://www.knocktechbd.com/images/technology/laravel.png)
 
 # Clean Laravel Project
 
