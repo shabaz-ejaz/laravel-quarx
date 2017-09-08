@@ -8,14 +8,22 @@ This is a clean [Laravel](https://laravel.com/) 5.4.36 project which uses [Quarx
 * Version
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
 
-* Pull down the master branch - `git clone git@bitbucket.org:scorchsoft/clean-laravel.git`
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+## Installation
+
+Start by installing dependencies:
+
+```sh
+composer install
+```
+
+
+```sh
+npm install
+```
+
+
+
 
 ### Contribution guidelines ###
 
