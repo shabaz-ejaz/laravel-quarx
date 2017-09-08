@@ -60,6 +60,11 @@ php artisan serve
 This will open up a Laravel development server at localhost:8000
 
 
+## Admin Access
+Login to Admin Panel by visiting: www.yoursite.com/quarx/dashboard
+
+
+
 ### Contribution guidelines ###
 
 * Writing tests
