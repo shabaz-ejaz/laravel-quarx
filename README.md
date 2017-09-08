@@ -1,6 +1,6 @@
 # Clean Laravel Project #
 
-This is a clean [Laravel](https://laravel.com/) project which uses [Quarx CMS](https://docs.quarxcms.com/)
+This is a clean [Laravel](https://laravel.com/) 5.4.36 project which uses [Quarx CMS](https://docs.quarxcms.com/)
 
 ### What is this repository for? ###
 
@@ -10,7 +10,7 @@ This is a clean [Laravel](https://laravel.com/) project which uses [Quarx CMS](h
 
 ### How do I get set up? ###
 
-* Summary of set up
+* Pull down the master branch - `git clone git@bitbucket.org:scorchsoft/clean-laravel.git`
 * Configuration
 * Dependencies
 * Database configuration
