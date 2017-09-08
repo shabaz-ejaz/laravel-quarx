@@ -1,4 +1,4 @@
-# Clean Laravel Project #  
+# Clean Laravel Project  ![alt text](https://raw.githubusercontent.com/fukuball/Awesome-Laravel-Education/master/laravel-logo-white.png)
 
 This is a clean [Laravel](https://laravel.com/) 5.4.36 project which uses [Quarx CMS](https://docs.quarxcms.com/)
 
