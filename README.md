@@ -67,6 +67,26 @@ Login to Admin Panel by visiting: www.yoursite.com/quarx/dashboard
 
 
 
+## CRUD Builder
+To use the CRUD builder you need to run the following command:
+```sh
+php artisan crudmaker:new Post --api --ui=bootstrap --migration --schema="id:increments,name:string,author:string" --relationships="belongsToMany|\App\Models\Tag|tags"
+```
+You can use the following options for the above command:
+```sh
+php artisan crudmaker:new ModelName
+{--api}
+{--ui=bootstrap|semantic}
+{--serviceOnly}
+{--withFacade}
+{--withoutViews}
+{--migration}
+{--schema}
+{--relationships}php artisan serve
+```
+
+You can view the full documentation for this [here](https://laracogs.com/docs/services/crud/)  
+
 ### Contribution guidelines ###
 
 * Writing tests
