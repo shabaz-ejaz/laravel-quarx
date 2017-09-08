@@ -23,6 +23,22 @@ npm install
 ```
 
 
+Publish the assets:
+
+```sh
+php artisan vendor:publish
+```
+
+Generate an app key:
+
+```sh
+php artisan key:generate
+```
+
+Set up Quarx CMS:
+```sh
+php artisan quarx:setup
+```
 
 
 ### Contribution guidelines ###
