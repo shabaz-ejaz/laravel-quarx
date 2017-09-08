@@ -4,9 +4,8 @@ This is a clean [Laravel](https://laravel.com/) 5.4.36 project which uses [Quarx
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+* Fresh Laravel Projects
+* Version: 5.4.36
 
 
 ## Installation
@@ -39,6 +38,19 @@ Set up Quarx CMS:
 ```sh
 php artisan quarx:setup
 ```
+This will set up the CMS and will create an admin account for you with the following credentials:
+
+admin@example.org
+admin
+
+## Running
+
+Once dependencies are installed, run with:
+
+```sh
+php artisan serve
+```
+This will open up a Laravel development server at localhost:8000
 
 
 ### Contribution guidelines ###
