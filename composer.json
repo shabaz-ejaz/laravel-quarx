@@ -1,6 +1,6 @@
 {
-    "name": "laravel/laravel",
-    "description": "The Laravel Framework.",
+    "name": "shabaz-ejaz/laravel-quarx",
+    "description": "A pre-packaged Laravel 5.4 project which includes Quarx CMS and CRUD Scaffolding.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "type": "project",
